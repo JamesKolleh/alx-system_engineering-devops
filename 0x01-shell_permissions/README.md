@@ -1,0 +1,1 @@
+0-iam_betty create a script that change your user to betty.
